@@ -1,23 +1,6 @@
-# [Next.js](https://nextjs.org/) Starter
+# Venom
 
-[![Build Status](https://github.com/pizzafox/nextjs-starter/workflows/CI/badge.svg)](https://github.com/pizzafox/nextjs-starter/actions)
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
-
-Next.js + TSX starter template.
-
-## Developing
-
-### Prequisites
-
-This project uses [Node.js](https://nodejs.org) 12 to build.
-
-This project uses [Yarn](https://yarnpkg.com) to install dependencies, although you can use another package manager like [npm](https://www.npmjs.com) or [pnpm](https://pnpm.js.org).
-
-```sh
-yarn install
-# or `npm install`
-# or `pnpm install`
-```
+Multiplayer head-to-head snake game, built with React, Next.js, and typescript.
 
 ### Building
 
@@ -60,14 +43,6 @@ You can run Prettier in the project with this command:
 ```sh
 yarn run style
 ```
-
-You can run XO with this command:
-
-```sh
-yarn run lint
-```
-
-Note that XO will also error if you have TypeScript errors, not just if your formatting is incorrect.
 
 ### Linting
 
