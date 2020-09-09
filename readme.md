@@ -2,6 +2,9 @@
 
 Multiplayer head-to-head snake game, built with React, Next.js, and typescript.
 
+### App Template
+This project was generated using [this template](https://github.com/pizzafox/nextjs-starter) by [@PizzaFox](https://github.com/pizzafox)
+
 ### Building
 
 Run the `build` script to build the project for production.
